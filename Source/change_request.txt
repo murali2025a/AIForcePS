@@ -1,3 +1,0 @@
-Add MFA verification for login service.
-Update AuthController, AuthService, LoginPage, and create OTP input component.
-Test cases for unit and integration must cover new MFA workflow.
